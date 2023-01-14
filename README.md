@@ -14,6 +14,8 @@
 python3 -m pip install -r requirements.txt
 ```
 
+<b>Usage :</b>
+
 ```
 python rfm.py
 ```
