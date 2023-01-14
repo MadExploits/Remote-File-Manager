@@ -2,7 +2,8 @@
   <samp><h1>Remote File Manager</h1></samp>
   <p>
     Remote File Manager Scanner
-    Please dont recode this tools :)
+  </p>
+  <p>
     The List or URL must be use ssl, Example: https://target.com
   </p>
 </div>
