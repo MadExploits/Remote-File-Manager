@@ -6,8 +6,8 @@
   <p>
     The List or URL must be use ssl, Example: https://target.com
   </p>
+  <samp>Please don't recode this tools :)</samp>
 </div>
-Please don't recode this tools :)
 
 <b>Installation :</b>
 ```
