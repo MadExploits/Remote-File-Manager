@@ -4,7 +4,7 @@
     Remote File Manager Scanner
   </p>
   <p>
-    The List or URL must be use ssl, Example: https://target.com
+    The List of URL must be use ssl, Example: https://target.com
   </p>
   <samp>Please don't recode this tools :)</samp>
 </div>
